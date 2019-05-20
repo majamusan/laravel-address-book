@@ -3,7 +3,7 @@
 
 # A basic Laravel address book
 
-## to install 
+## To install run the following commands 
 - composer install 
 - create .env file 
 - php artisan migrate
