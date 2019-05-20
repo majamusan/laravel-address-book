@@ -16,7 +16,7 @@ return [
     'placeholders' => [
         'name_first'    => 'first name',
         'name_last' => 'last name',
-        'search' => 'search',
+        'search' => 'search by first and last name',
         'email' => 'email ',
         'phone' => 'phone',
         'data'  => 'email or phone number',
