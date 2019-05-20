@@ -3,9 +3,9 @@
 
 # A basic Laravel address book
 
-## To install run the following commands 
-- composer install 
+## To install
+- $composer install 
 - create .env file 
-- php artisan migrate
-- or php artisan migrate --seed if you'd like some friends 
-- then just serve it
+- $php artisan migrate
+- or $php artisan migrate --seed  (if you'd like some friends)
+- then serve it
